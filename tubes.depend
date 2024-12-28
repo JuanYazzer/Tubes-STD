@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1733077146 source:c:\users\juan\onedrive - telkom university\semester 3\struktur data\praktikum\tp 11\tubes\main.cpp
+	"tubes.h"
+
+1733077146 source:c:\users\juan\onedrive - telkom university\semester 3\struktur data\praktikum\tp 11\tubes\tubes.cpp
+	"tubes.h"
+
+1733077146 c:\users\juan\onedrive - telkom university\semester 3\struktur data\praktikum\tp 11\tubes\tubes.h
+	<iostream>
+
+1735323376 source:c:\users\juan\onedrive - telkom university\semester 3\struktur data\tubes\main.cpp
+	"tubes.h"
+
+1735323386 c:\users\juan\onedrive - telkom university\semester 3\struktur data\tubes\tubes.h
+	<iostream>
+
+1735323893 source:c:\users\juan\onedrive - telkom university\semester 3\struktur data\tubes\tubes.cpp
+	"tubes.h"
+
